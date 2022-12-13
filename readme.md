@@ -1,4 +1,4 @@
-PREVIEW : https://serenityeirlys.github.io/Website-Bee-Homie-Bot/
+PREVIEW : https://bee.bestiestudio.com/
 
 
 ![image](https://user-images.githubusercontent.com/100836558/206466506-63b1e964-bb76-4710-b758-3fc81a11f0c0.png)
